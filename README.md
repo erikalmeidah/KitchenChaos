@@ -24,7 +24,7 @@ The repository contains the **assets** used in the creation of the game, includi
 
 The actual game executable and files can be downloaded here:
 
-[Download Kitchen Chaos Game Build]([https://drive.google.com/your-google-drive-link-here](https://drive.google.com/drive/folders/1AVMy7x8EvA90LoM_-yk92XogqiI_kVJ6?usp=sharing))
+[Download Kitchen Chaos Game Build](https://drive.google.com/drive/folders/1AVMy7x8EvA90LoM_-yk92XogqiI_kVJ6?usp=sharing)
 
 Once you've downloaded the contents of the Google Drive folder, extract the files and run the game by double-clicking on the **KitchenChaos.exe** file (for Windows).
 
